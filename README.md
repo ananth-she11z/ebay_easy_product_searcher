@@ -2,6 +2,8 @@
 
 Both EXE and Python Code Available to get used ;)
 
+NOTE: For using Python code directly please ensure you install requests and beautifulsoup4 modules using pip or pip3. You can use both Python2 or Python3.
+
 
 This tool will take three arguments from user 1. Product name 2. Number of pages to scrap 3. Your budget and works to give you a detailed CSV output for user to check.
 
