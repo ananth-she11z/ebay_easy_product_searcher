@@ -27,7 +27,7 @@ csv_writer.writerow(['Product Title', 'Product Cost', 'Product Sold', 'Product A
 
 print('\n----------------------------------------------------------')
 print('ebay Web Scrapper by Ananth aka she11z')
-print('LinkedIn: https://www.linkedin.com/in/ananth-venkateswarlu/')
+print('LinkedIn: https://www.linkedin.com/in/ananth-she11z/')
 print('GitHub: https://github.com/ananth-she11z')
 print('-----------------------------------------------------------')
 print('Product Name: ' + product + '\nNo. of pages to search: ' + str(page_number) + '\nYour Budget Price: ' + str(budget_price))
